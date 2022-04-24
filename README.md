@@ -1,17 +1,16 @@
-  # Hi, I’m Amr Salah 👋 #
+  ## Hello everyone, I’m Amr Salah 👋 ##
 - 👀 I’m interested in web dedvelopment
 - 🌱 I’m currently learning React.js			
               						   
  <br />
-
- # Hi, I’m Amr Salah 👋 #
+ <br />
+ ## Hi, I’m Amr Salah 👋 ##
 - 👀 I’m interested in web dedvelopment
 - 🌱 I’m currently learning React.js
  <br />
+ <br />
  
- 
- 
- ### Hi, I’m Amr Salah 👋 ###
+ ## Hi, I’m Amr Salah 👋 ##
 - 👀 I’m interested in web dedvelopment
 - 🌱 I’m currently learning React.js
 
