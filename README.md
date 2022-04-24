@@ -5,7 +5,7 @@
  <br />
  <br />
  
- ## Languages and Tools 👋 ##
+ ## Languages and Tools  ##
 
 html5   css3   javascript   bootstrap   java   cplusplus   mysql
 
@@ -14,7 +14,7 @@ figma   illustrator   photoshop
  <br />
  <br />
  
- ## Hi, I’m Amr Salah 👋 ##
+ ## Connect with me  ##
 - 👀 I’m interested in web dedvelopment
 - 🌱 I’m currently learning React.js
 
