@@ -2,20 +2,6 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React.js			
               						   
- <br />
- <br />
- 
- ## Languages and Tools  ##
-
-html5   css3   javascript   bootstrap   java   cplusplus   mysql
-
-figma   illustrator   photoshop
-
- <br />
- <br />
- 
- ## Connect with me  ##
-FB  IG  T
 
 
 <!---
