@@ -8,6 +8,10 @@
  ## Languages and Tools 👋 ##
 
 html5   css3   javascript   bootstrap   java   cplusplus   mysql
+SUBJECT = npm
+STATUS= 1.0.0
+COLOR= green
+https://www.google.com/
 
 figma   illustrator   photoshop
 
