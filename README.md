@@ -15,8 +15,8 @@ figma   illustrator   photoshop
  <br />
  
  ## Connect with me  ##
-- 👀 I’m interested in web dedvelopment
-- 🌱 I’m currently learning React.js
+I’m interested in web dedvelopment
+I’m currently learning React.js
 
 
 <!---
