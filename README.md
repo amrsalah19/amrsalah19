@@ -1,5 +1,5 @@
   ## Hello everyone, I’m Amr Salah 👋 ##
-- 👀 I’m interested in web dedvelopment
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning React.js			
               						   
  <br />
@@ -15,8 +15,7 @@ figma   illustrator   photoshop
  <br />
  
  ## Connect with me  ##
-I’m interested in web dedvelopment
-I’m currently learning React.js
+FB  IG  T
 
 
 <!---
