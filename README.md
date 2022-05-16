@@ -1,6 +1,6 @@
   ## Hello everyone, I’m Amr Salah 👋 ##
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React.js & Bootstrap			
+- 🌱 I’m currently learning React.js		
               						   
 
 
